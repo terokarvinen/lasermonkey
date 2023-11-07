@@ -1,0 +1,2 @@
+print("Laser")
+print("Monke")
